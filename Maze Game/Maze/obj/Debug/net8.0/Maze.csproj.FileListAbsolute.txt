@@ -1,0 +1,14 @@
+D:\.NET Web Devolopment\C#\Maze\Maze\bin\Debug\net8.0\Maze.exe
+D:\.NET Web Devolopment\C#\Maze\Maze\bin\Debug\net8.0\Maze.deps.json
+D:\.NET Web Devolopment\C#\Maze\Maze\bin\Debug\net8.0\Maze.runtimeconfig.json
+D:\.NET Web Devolopment\C#\Maze\Maze\bin\Debug\net8.0\Maze.dll
+D:\.NET Web Devolopment\C#\Maze\Maze\bin\Debug\net8.0\Maze.pdb
+D:\.NET Web Devolopment\C#\Maze\Maze\obj\Debug\net8.0\Maze.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Web Devolopment\C#\Maze\Maze\obj\Debug\net8.0\Maze.AssemblyInfoInputs.cache
+D:\.NET Web Devolopment\C#\Maze\Maze\obj\Debug\net8.0\Maze.AssemblyInfo.cs
+D:\.NET Web Devolopment\C#\Maze\Maze\obj\Debug\net8.0\Maze.csproj.CoreCompileInputs.cache
+D:\.NET Web Devolopment\C#\Maze\Maze\obj\Debug\net8.0\Maze.dll
+D:\.NET Web Devolopment\C#\Maze\Maze\obj\Debug\net8.0\refint\Maze.dll
+D:\.NET Web Devolopment\C#\Maze\Maze\obj\Debug\net8.0\Maze.pdb
+D:\.NET Web Devolopment\C#\Maze\Maze\obj\Debug\net8.0\Maze.genruntimeconfig.cache
+D:\.NET Web Devolopment\C#\Maze\Maze\obj\Debug\net8.0\ref\Maze.dll
